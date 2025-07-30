@@ -22,10 +22,8 @@ How does the performance of a toroidal propeller compare to a traditional 3-blad
 ## 📁 Project Structure
 - `Arduino_Code/`: Arduino sketch for data collection
 - `Data/`: Raw data and processed output files
-- `Figures/`: Plots and diagrams from the analysis
-- `Models/`: MATLAB and Python scripts for theoretical modeling
-- `CAD_Designs/`: STL files for the 3D printed propellers
-- `Report/`: Final write-up of the experimental study
+- - `images/`: images of the setup
+
 <img width="1188" height="843" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/44900875-16f8-4907-a3d7-9d5edb32c029" />
 
 ## 📊 Key Findings
