@@ -2,6 +2,9 @@
 
 This project compares the aerodynamic performance of a traditional 3-blade propeller and a toroidal propeller.
 Data from thrust, noise level, and power consumption using Arduino-compatible sensors and analyzed efficiency using theoretical models.
+# 
+How does the performance of a toroidal propeller compare to a traditional 3-blade propeller in terms of thrust, power efficiency, and noise level across different speeds (RPMs)?
+
 
 ## 🔬 Overview
 - Evaluated performance using real-time sensor data (load cell, INA219, tachometer, dB meter)
