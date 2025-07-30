@@ -8,11 +8,11 @@ Data from thrust, noise level, and power consumption using Arduino-compatible se
 - Used MATLAB and Python to model thrust vs. RPM and efficiency curves
 - Designed and 3D-printed both propeller types based on NACA 63-412 airfoil
 - Analyzed trade-offs between efficiency and noise for drone and UAV applications
-3-blade propeller
+- 3-blade propeller
 
 <img width="716" height="430" alt="Wind Turbine" src="https://github.com/user-attachments/assets/a53e1f3e-d5ae-447d-a5a4-d8e1529a51cb" />
 
-Toroidal Propeller
+ Toroidal Propeller
 
 <img width="697" height="426" alt="Toroidal Wind Turbine" src="https://github.com/user-attachments/assets/87eea7da-5704-498a-8c82-e717370f277e" />
 
